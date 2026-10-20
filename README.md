@@ -2,9 +2,8 @@
 
 <!-- ========================================================================= -->
 <!-- 🌌 ULTRA-PREMIUM DYNAMIC HEADER (Capsule Multi-Color Neon Wave) -->
-<!-- ========================================================================= -->
 <a href="https://fourari-taha.vercel.app/" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=280&section=header&text=TAHA%20FOURARI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20BIG%20DATA%20ARCHITECT%20%7C%20AI%20%26%20MACHINE%20LEARNING%20ENGINEER&descAlignY=58&descFontSize=20&descAlign=50" width="100%" alt="Header Wave Banner"/>
+  <img src="https://raw.githubusercontent.com/Fourari2004/Fourari2004/main/assets/header.svg" width="100%" alt="Header Wave Banner"/>
 </a>
 
 <!-- ========================================================================= -->
@@ -221,17 +220,17 @@ manifesto:
     <img src="https://github-readme-stats.vercel.app/api?username=Fourari2004&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&custom_title=Taha's%20Engineering%20Stats" width="48%" alt="Taha GitHub Stats" />
   </a>
   <a href="https://github.com/Fourari2004">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fourari2004&theme=tokyonight&hide_border=false" width="48%" alt="Taha Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=Fourari2004&theme=tokyonight&hide_border=false" width="48%" alt="Taha Streak Stats" />
   </a>
 </p>
 
-<!-- CARDS ROW 2: LANGUAGES & ACTIVITY GRAPH -->
+<!-- CARDS ROW 2: LANGUAGES & PROFILE SUMMARY DETAILS -->
 <p align="center">
   <a href="https://github.com/Fourari2004">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fourari2004&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" width="48%" alt="Top Languages" />
   </a>
   <a href="https://github.com/Fourari2004">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fourari2004&theme=tokyo-night&area=true&hide_border=false" width="48%" alt="Activity Graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fourari2004&theme=tokyonight" width="48%" alt="Profile Summary Details" />
   </a>
 </p>
 
@@ -273,7 +272,7 @@ manifesto:
 <!-- ========================================================================= -->
 <div align="center">
   <a href="https://fourari-taha.vercel.app/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=120&section=footer" width="100%" alt="Footer Banner"/>
+    <img src="https://raw.githubusercontent.com/Fourari2004/Fourari2004/main/assets/footer.svg" width="100%" alt="Footer Banner"/>
   </a>
 
   <p>
