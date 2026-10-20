@@ -4,7 +4,7 @@
 <!-- 🌌 ULTRA-PREMIUM DYNAMIC HEADER (Capsule Multi-Color Neon Wave) -->
 <!-- ========================================================================= -->
 <a href="https://fourari-taha.vercel.app/" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:050811,18:0b192c,40:0052cc,70:00f2fe,100:4facfe&height=310&section=header&text=TAHA%20FOURARI&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9A%A1%20BIG%20DATA%20ARCHITECT%20%7C%20AI%20%26%20MACHINE%20LEARNING%20ENGINEER&descAlignY=56&descFontSize=20&descAlign=50" width="100%" alt="Header Wave Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=280&section=header&text=TAHA%20FOURARI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20BIG%20DATA%20ARCHITECT%20%7C%20AI%20%26%20MACHINE%20LEARNING%20ENGINEER&descAlignY=58&descFontSize=20&descAlign=50" width="100%" alt="Header Wave Banner"/>
 </a>
 
 <!-- ========================================================================= -->
@@ -256,12 +256,13 @@ manifesto:
 ### 🏅 Official GitHub Achievements & Badges
 
 <div align="center">
-  <a href="https://github.com/Fourari2004?tab=achievements">
-    <img src="https://github.com/user-attachments/assets/94b4cfda-a2f0-410a-b2aa-99bfa55a297e" width="75" alt="Pull Shark" title="Pull Shark - Merged PRs" />
-    <img src="https://github.com/user-attachments/assets/05aa0f31-50e5-4a7b-a017-910411a0ab8a" width="75" alt="Quickdraw" title="Quickdraw - Fast Responder" />
-    <img src="https://github.com/user-attachments/assets/7beee676-e4d6-4443-85f0-61ba4f40f2f3" width="75" alt="Pair Extraordinaire" title="Pair Extraordinaire - Team Co-author" />
-    <img src="https://github.com/user-attachments/assets/d9d072e7-c47d-4ddd-83f6-8e7717a721b8" width="75" alt="Galaxy Brain" title="Galaxy Brain - Discussion Ace" />
-    <img src="https://github.com/user-attachments/assets/31258408-bfc3-496a-8a58-e34794b21813" width="75" alt="YOLO" title="YOLO - Merged without Review" />
+  <a href="https://github.com/Fourari2004?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/Fourari2004/Fourari2004/main/assets/badges/PullShark.png" width="85" alt="Pull Shark" title="Pull Shark - Merged PRs" />
+    <img src="https://raw.githubusercontent.com/Fourari2004/Fourari2004/main/assets/badges/QuickDraw.png" width="85" alt="Quickdraw" title="Quickdraw - Fast Responder" />
+    <img src="https://raw.githubusercontent.com/Fourari2004/Fourari2004/main/assets/badges/PairExtraordinaire.png" width="85" alt="Pair Extraordinaire" title="Pair Extraordinaire - Team Co-author" />
+    <img src="https://raw.githubusercontent.com/Fourari2004/Fourari2004/main/assets/badges/GalaxyBrain.png" width="85" alt="Galaxy Brain" title="Galaxy Brain - Solution Provider" />
+    <img src="https://raw.githubusercontent.com/Fourari2004/Fourari2004/main/assets/badges/StarStruck.png" width="85" alt="Starstruck" title="Starstruck - Star Collector" />
+    <img src="https://raw.githubusercontent.com/Fourari2004/Fourari2004/main/assets/badges/YOLO.png" width="85" alt="YOLO" title="YOLO - Merged without Review" />
   </a>
 </div>
 
@@ -272,7 +273,7 @@ manifesto:
 <!-- ========================================================================= -->
 <div align="center">
   <a href="https://fourari-taha.vercel.app/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00f2fe,30:0052cc,70:0b192c,100:050811&height=140&section=footer" width="100%" alt="Footer Banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=120&section=footer" width="100%" alt="Footer Banner"/>
   </a>
 
   <p>
