@@ -32,16 +32,16 @@
   <a href="tel:+212619278662">
     <img src="https://img.shields.io/badge/WhatsApp%2FCall-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=fourari&label=Profile%20Views&color=00f2fe&style=for-the-badge" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Fourari2004&label=Profile%20Views&color=00f2fe&style=for-the-badge" alt="Views"/>
 </p>
 
 <!-- ========================================================================= -->
 <!-- 🐍 CONTRIBUTION SNAKE EATER ANIMATION -->
 <!-- ========================================================================= -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fourari/fourari/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fourari/fourari/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/fourari/fourari/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fourari2004/Fourari2004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fourari2004/Fourari2004/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Fourari2004/Fourari2004/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -217,21 +217,21 @@ manifesto:
 
 <!-- CARDS ROW 1: STATS & STREAK -->
 <p align="center">
-  <a href="https://github.com/fourari">
-    <img src="https://github-readme-stats.vercel.app/api?username=fourari&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&custom_title=Taha's%20Engineering%20Stats" width="48%" alt="Taha GitHub Stats" />
+  <a href="https://github.com/Fourari2004">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fourari2004&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&custom_title=Taha's%20Engineering%20Stats" width="48%" alt="Taha GitHub Stats" />
   </a>
-  <a href="https://github.com/fourari">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fourari&theme=tokyonight&hide_border=false" width="48%" alt="Taha Streak Stats" />
+  <a href="https://github.com/Fourari2004">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fourari2004&theme=tokyonight&hide_border=false" width="48%" alt="Taha Streak Stats" />
   </a>
 </p>
 
 <!-- CARDS ROW 2: LANGUAGES & ACTIVITY GRAPH -->
 <p align="center">
-  <a href="https://github.com/fourari">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fourari&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" width="48%" alt="Top Languages" />
+  <a href="https://github.com/Fourari2004">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fourari2004&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" width="48%" alt="Top Languages" />
   </a>
-  <a href="https://github.com/fourari">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fourari&theme=tokyo-night&area=true&hide_border=false" width="48%" alt="Activity Graph" />
+  <a href="https://github.com/Fourari2004">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fourari2004&theme=tokyo-night&area=true&hide_border=false" width="48%" alt="Activity Graph" />
   </a>
 </p>
 
@@ -240,9 +240,9 @@ manifesto:
 <!-- ========================================================================= -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fourari/fourari/main/profile-3d-contrib/profile-3d-contrib-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fourari/fourari/main/profile-3d-contrib/profile-3d-contrib-light.svg" />
-    <img src="https://raw.githubusercontent.com/fourari/fourari/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Profile Contributions Chart" width="100%" onerror="this.src='https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg'" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fourari2004/Fourari2004/main/profile-3d-contrib/profile-3d-contrib-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fourari2004/Fourari2004/main/profile-3d-contrib/profile-3d-contrib-light.svg" />
+    <img src="https://raw.githubusercontent.com/Fourari2004/Fourari2004/main/profile-3d-contrib/profile-3d-contrib-dark.svg" alt="3D Profile Contributions Chart" width="100%" />
   </picture>
 </p>
 <p align="center">
@@ -256,7 +256,7 @@ manifesto:
 ### 🏅 Official GitHub Achievements & Badges
 
 <div align="center">
-  <a href="https://github.com/fourari?tab=achievements">
+  <a href="https://github.com/Fourari2004?tab=achievements">
     <img src="https://github.com/user-attachments/assets/94b4cfda-a2f0-410a-b2aa-99bfa55a297e" width="75" alt="Pull Shark" title="Pull Shark - Merged PRs" />
     <img src="https://github.com/user-attachments/assets/05aa0f31-50e5-4a7b-a017-910411a0ab8a" width="75" alt="Quickdraw" title="Quickdraw - Fast Responder" />
     <img src="https://github.com/user-attachments/assets/7beee676-e4d6-4443-85f0-61ba4f40f2f3" width="75" alt="Pair Extraordinaire" title="Pair Extraordinaire - Team Co-author" />
